@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './SearchBar.css';
-
+//this is my searchbar component
 const SearchBar = () => {
   const [location, setLocation] = useState('');
 
