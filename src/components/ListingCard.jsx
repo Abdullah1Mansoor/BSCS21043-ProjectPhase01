@@ -1,7 +1,7 @@
 // ListingCard.js
 import PropTypes from 'prop-types'; // Import PropTypes
 import './ListingCard.css'; // Ensure you have a CSS file for styles if needed
-
+// this is my listing components
 const ListingCard = ({ image, title, type, guests, bedrooms, bathrooms, price, rating }) => {
   return (
     <div className="listing-card">
