@@ -1,0 +1,21 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: #f7f7f7;
+    border-top: 1px solid #ddd;
+  }
+  
+  .footer ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  .footer ul li {
+    margin-right: 1rem;
+  }
+  
+  .footer p {
+    text-align: right;
+  }
+  
