@@ -1,0 +1,19 @@
+.categories {
+    display: flex;
+    overflow-x: auto;
+    padding: 1rem;
+  }
+  
+  .categories button {
+    margin: 0 0.5rem;
+    padding: 0.5rem 1rem;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    cursor: pointer;
+  }
+  
+  .categories button.active {
+    background-color: #ff5a5f;
+    color: #fff;
+  }
+  
